@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     class Program
     {
         /// <summary>
-        /// SAMET İLHAN FDSFDFSDFSDFSDFS
+        /// SAMET İLHAN
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)

@@ -8,6 +8,10 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        /// <summary>
+        /// comment eklendi
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
         }

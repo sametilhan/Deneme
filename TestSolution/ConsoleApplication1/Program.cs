@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        //selam
+        //selam iyiyim
         static void Main(string[] args)
         {
         }

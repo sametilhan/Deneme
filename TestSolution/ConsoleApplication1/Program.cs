@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     class Program
     {
         /// <summary>
-        /// selam nasılsın bakalım hadi dfssdfd
+        /// selam nasılsın bakalım
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)

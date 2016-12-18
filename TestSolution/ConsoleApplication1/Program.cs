@@ -8,7 +8,10 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        //selam nasılsın
+        /// <summary>
+        /// selam nasılsın
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
         }
